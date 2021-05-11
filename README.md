@@ -1,2 +1,4 @@
-# Debugging_JQuery
-Debugging in JQuery
+Debugging-jQuery
+================
+
+Clone this and correct the jQuery errors!
